@@ -19,9 +19,6 @@ Designed for data analytics, automation, productivity, and intelligent task exec
 [<img src="ASSETS/NIXEX-icon.png" width="28"/>](https://colab.research.google.com/github/NIZAM531/NIZEX---Neural-Intelligence-with-Zero-Latency-Enhanced-Experience/blob/main/nixex-v0-5(1).ipynb)
 [![Run NIXEX in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/NIZEX---Neural-Intelligence-with-Zero-Latency-Enhanced-Experience/blob/main/nixex-v0-5.ipynb)
 
-<img src="ASSETS/NIXEX-icon.png" width="28"/>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NIZAM531/NIZEX---Neural-Intelligence-with-Zero-Latency-Enhanced-Experience/HEAD)
-
 ---
 ## 🔥 Features
 ✅ **Neural Intelligence**
@@ -44,7 +41,7 @@ To create an **intelligent, adaptive, human-centric AI** capable of boosting pro
 
 ---
 
-## 🧩 Use-Cases
+## 🧩 Use-Cases  <img src="ASSETS/NIXEX-icon.png" width="28"/>
 
 - 📊 Data Analytics
 - 📚 Research Assistance
@@ -55,7 +52,7 @@ To create an **intelligent, adaptive, human-centric AI** capable of boosting pro
 
 ---
 
-## 💡 Coming Soon
+## 💡 Coming Soon   <img src="ASSETS/NIXEX-icon.png" width="28"/>
 
 - Offline AI model support  
 - Excel integration  
@@ -73,7 +70,7 @@ To create an **intelligent, adaptive, human-centric AI** capable of boosting pro
 
 ---
 
-## 📦 Installation (Placeholder)
+## 📦 Installation (Placeholder) <img src="ASSETS/NIXEX-icon.png" width="28"/>
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/NIZEX.git

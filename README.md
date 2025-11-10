@@ -1,7 +1,16 @@
-# 🚀 NIZEX — Neural Intelligence with Zero-Latency Enhanced Experience
-
+#  NIZEX — Neural Intelligence with Zero-Latency Enhanced Experience
+<p align="center">
+  <img src="ASSETS/NIXEX.png" alt="NIZEX Logo",width="260"height="150" >
+</p>
 NIZEX V0.5 is a next-generation AI assistant built to deliver instant, meaningful intelligence with a fully personalized interaction experience.  
 Designed for data analytics, automation, productivity, and intelligent task execution — all at the **speed of thought**.
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Assistant-blue" />
+  <img src="https://img.shields.io/badge/Version-0.5-green" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow" />
+</p>
 
 ---
 

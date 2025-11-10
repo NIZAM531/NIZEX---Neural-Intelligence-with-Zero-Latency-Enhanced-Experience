@@ -14,11 +14,13 @@ Designed for data analytics, automation, productivity, and intelligent task exec
   <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
+<img src="ASSETS/NIXEX-icon.png" width="28"/>[![Run on Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/NIZAM531/NIZEX---Neural-Intelligence-with-Zero-Latency-Enhanced-Experience/blob/main/nixex-v0-5.ipynb)
 
 [<img src="ASSETS/NIXEX-icon.png" width="28"/>](https://colab.research.google.com/github/NIZAM531/NIZEX---Neural-Intelligence-with-Zero-Latency-Enhanced-Experience/blob/main/nixex-v0-5(1).ipynb)
 [![Run NIXEX in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/NIZEX---Neural-Intelligence-with-Zero-Latency-Enhanced-Experience/blob/main/nixex-v0-5.ipynb)
 
-<img src="ASSETS/NIXEX-icon.png" width="28"/>[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR-USERNAME/NIZEX---Neural-Intelligence-with-Zero-Latency-Enhanced-Experience/HEAD)
+<img src="ASSETS/NIXEX-icon.png" width="28"/>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NIZAM531/NIZEX---Neural-Intelligence-with-Zero-Latency-Enhanced-Experience/HEAD)
 
 ---
 ## 🔥 Features

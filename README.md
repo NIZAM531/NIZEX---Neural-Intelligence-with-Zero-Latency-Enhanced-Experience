@@ -1,3 +1,5 @@
+<h1 align="center"><img src="ASSETS/NIXEX-icon.png" width="26"/> NIXEX AI</h1>
+
 #  NIZEX — Neural Intelligence with Zero-Latency Enhanced Experience
 <p align="center">
   <img src="ASSETS/NIXEX.png" alt="NIZEX Logo",width="260"height="150" >
